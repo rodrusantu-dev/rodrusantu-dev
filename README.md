@@ -23,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 2. Iniciei os estudos e aprendizado sobre responsividade
 3. Fiz um curso paralelo sobre Algorimos
 4. Comecei a estudar também com livros de programação.
+5. Comecei a criar meu website Portifolio 
+6. Comecei a criar um acervo mais organizado no GitHub como centralizador dos meus códigos

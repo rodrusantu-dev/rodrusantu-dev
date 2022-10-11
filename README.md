@@ -1,6 +1,6 @@
 # Profissional em formação DevFullstack
 
-## TÉCNOLOGIAS QUE ATUO:
+## Conhecimentos em:
 
 1. HTML
 2. CSS

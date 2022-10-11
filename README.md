@@ -8,11 +8,11 @@
 4. Github
 5. MarkDown
 
-### 🚀 Criador do Projeto **PROGRAMADOR AMIGO**
+### 🚀 Criador do Projeto **Bizurado DEV**
 
 Conheça a história do projeto e as aulas/manuais.
 
-* [Repositório Programador Amigo](https://github.com/rodrusantu-dev/Programador-amigo) 
+* [Repositório Bizurado Dev](https://github.com/rodrusantu-dev/Bizurado-Dev) 
 
 
 

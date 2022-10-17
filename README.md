@@ -2,11 +2,12 @@
 
 ## Conhecimentos em:
 
-1. HTML
-2. CSS
-3. Git
-4. Github
-5. MarkDown
+1. HTML5
+2. CSS3
+3. Responsividade
+4. Git
+5. Github
+6. MarkDown
 
 ### 🚀 Criador do Projeto **Bizurado DEV**
 

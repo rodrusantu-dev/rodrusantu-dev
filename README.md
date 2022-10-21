@@ -3,8 +3,7 @@
 ## 🚀 Criador do Projeto **BIZURADO DEV**
 
 
-##### [Site do Projeto](https://rodrusantu-dev.github.io/Bizurado-Dev/) 
-##### [Repositório GitHub](https://github.com/rodrusantu-dev/Bizurado-Dev) 
+#### [Repositório GitHub](https://github.com/rodrusantu-dev/Bizurado-Dev) 
 
 
 

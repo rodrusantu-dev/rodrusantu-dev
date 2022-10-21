@@ -4,7 +4,8 @@
 
 Conheça a história do projeto e as aulas/manuais.
 
-* [Repositório Bizurado Dev](https://github.com/rodrusantu-dev/Bizurado-Dev) 
+* [Site do Projeto](https://rodrusantu-dev.github.io/Bizurado-Dev/) 
+* [Repositório GitHub](https://rodrusantu-dev.github.io/Bizurado-Dev/) 
 
 
 

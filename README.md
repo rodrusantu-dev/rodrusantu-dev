@@ -17,6 +17,13 @@
 <img align="center" alt="rodrigomenezes-vscode" height="60" width="70" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-vscode.svg" />
 <img align="center" alt="rodrigomenezes-markdown" height="60" width="70" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-markdown.png" />
 
+## Minhas Redes Sociais: </strong>
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodrusantu-dev)
+[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100059056084411)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rsantosmenezes/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rodrusantu)
+
+
 
 
 

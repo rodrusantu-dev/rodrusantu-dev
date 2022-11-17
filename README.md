@@ -17,11 +17,11 @@
 <img align="center" alt="rodrigomenezes-vscode" height="60" width="70" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-vscode.svg" />
 <img align="center" alt="rodrigomenezes-markdown" height="60" width="70" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-markdown.png" />
   
-### Tecnologias em aprendizado:
+## Tecnologias em aprendizado:
 
 <div style="display: inline_block" align = "left"><br>
-<img align="center" alt="rodrigomenezes-javascript" height="90" width="80" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/java.png" />
-<img align="center" alt="rodrigomenezes-node" height="80" width="90" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/node.png" />
+<img align="center" alt="rodrigomenezes-javascript" height="70" width="70" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/java3.svg" />
+<img align="center" alt="rodrigomenezes-node" height="70" width="70" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/node3.svg" />
 
 ### Minhas Redes Sociais: </strong>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodrusantu-dev)

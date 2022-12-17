@@ -1,12 +1,5 @@
 # Profissional em formação DevFullstack
 
-## 🚀 Criador do Projeto **BIZURADO DEV**
-
-
-### [ >>> Acesse o Site <<<](https://rodrusantu-dev.github.io/Bizurado-Dev/) 
-
-
-
 ## Tecnologias que já trabalho:
 
 <div style="display: inline_block" align = "left"><br>

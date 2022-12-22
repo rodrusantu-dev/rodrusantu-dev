@@ -5,9 +5,7 @@
 Olá, sou o Rodrigo, e centralizo aqui no meu GitHub todos os meus códigos e projetos no meio da Programação. Sou um profissional em transição de carreira, já trabalho há 12 anos como Gestor Administrativo. Crei um conceito (gosto de chamar assim) o Bizurado DEV que é a minha marca pessoal em todos os meus projetos, que carrega consigo um conceito, e um padrão de trabalho exclusivo. E ai, vamos trabalhar ?
 
 ## 🚀 Bizurado DEV
-<p align="left">
-      <img src="https://github.com/rodrusantu-dev/Bizurado-Dev/raw/main/img/web-site/logo-home2.png" alt="Logo-bizuradodev" width="130" height="75">
-</p>
+
 Descrever superficial o projeto com o LINK do detalhado.
 
 

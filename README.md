@@ -6,7 +6,7 @@ Olá, sou o Rodrigo, e centralizo aqui no meu GitHub todos os meus códigos e pr
 
 ## 🚀 Bizurado DEV
 <p align="left">
-      <img src="https://github.com/rodrusantu-dev/Bizurado-Dev/raw/main/img/web-site/logo-home2.png" alt="Logo-bizuradodev" width="180" height="100">
+      <img src="https://github.com/rodrusantu-dev/Bizurado-Dev/raw/main/img/web-site/logo-home2.png" alt="Logo-bizuradodev" width="130" height="75">
 </p>
 Descrever superficial o projeto com o LINK do detalhado.
 

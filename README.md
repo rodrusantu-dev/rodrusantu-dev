@@ -16,6 +16,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Bizurado DEV - Transição de Carreira](https://rodrusantu-dev.github.io/Bizurado-Dev/) - Site sobre o tema. [ Tecnologias: HTML5 e CSS3 ]
 * [Lanchonete Aromas](https://rodrusantu-dev.github.io/LanchoneteAromas/) - Site de uma lanchonete. [ Tecnologias: HTML5 e CSS3 ]
 * [Loja Super Hero](https://rodrusantu-dev.github.io/LojaSuperHero/) - Site Loja de Bonecos. [ Tecnologias: HTML5 e CSS3 ]
+* [Encriptador de Conversas](https://rodrusantu-dev.github.io/Encriptador/) - Aplicação em JS - Criptografa conversas [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 
 
 

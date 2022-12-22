@@ -6,7 +6,7 @@ Olá, sou o Rodrigo, e centralizo aqui no meu GitHub todos os meus códigos e pr
 
 ## 🚀 Bizurado DEV
 
-Descrever o projeto com o LINK do detalhado.
+"Bizurado" ou "Bizú" é um jargão popular no meio militar, que quer dizer macete, dica, uma resumo melhorado, ensinando a fazer algo de maneira mais prática, para se evitar erros. Assim como uma "marca pessoal" será o carimbo dos meus projetos, carregando sempre consigo a premissa de contribuir, compartilhar, e ensinar aqueles que principalmente vem de outras áreas para a programação.
 
 
 ## 🛠️ Projetos já realizados

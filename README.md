@@ -13,8 +13,11 @@ Descrever superficial o projeto com o LINK do detalhado.
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Bizurado DEV - HTML](https://rodrusantu-dev.github.io/Bizurado-Dev/) - (Site sobre transição de carreira com aulas básicas.)
-    > Tecnologias: HTML5 e CSS3
+* [Bizurado DEV - Transição de Carreira](https://rodrusantu-dev.github.io/Bizurado-Dev/) - Site sobre o tema. [ Tecnologias: HTML5 e CSS3 ]
+* [Lanchonete Aromas](https://rodrusantu-dev.github.io/LanchoneteAromas/) - Site de uma lanchonete. [ Tecnologias: HTML5 e CSS3 ]
+* [Loja Super Hero](https://rodrusantu-dev.github.io/LojaSuperHero/) - Site Loja de Bonecos. [ Tecnologias: HTML5 e CSS3 ]
+
+
 
 
 ## Tecnologias que já trabalho:

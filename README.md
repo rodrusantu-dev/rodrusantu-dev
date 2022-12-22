@@ -6,7 +6,7 @@ Olá, sou o Rodrigo, e centralizo aqui no meu GitHub todos os meus códigos e pr
 
 ## 🚀 Bizurado DEV
 
-Descrever superficial o projeto com o LINK do detalhado.
+Descrever o projeto com o LINK do detalhado.
 
 
 ## 🛠️ Projetos já realizados
@@ -17,8 +17,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Lanchonete Aromas](https://rodrusantu-dev.github.io/LanchoneteAromas/) - Site de uma lanchonete. [ Tecnologias: HTML5 e CSS3 ]
 * [Loja Super Hero](https://rodrusantu-dev.github.io/LojaSuperHero/) - Site Loja de Bonecos. [ Tecnologias: HTML5 e CSS3 ]
 * [Encriptador de Conversas](https://rodrusantu-dev.github.io/Encriptador/) - Aplicação em JS - Criptografa conversas [ Tecnologias: HTML5 + CSS3 + JavaScript ]
-
-
+* [Farolete no Botão](https://rodrusantu-dev.github.io/Farolete-JS/) - Aplicação em JS - Semáforo Java [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 
 
 ## Tecnologias que já trabalho:

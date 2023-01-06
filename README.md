@@ -13,6 +13,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Lanchonete Aromas](https://rodrusantu-dev.github.io/LanchoneteAromas/) - Site de uma lanchonete. [ Tecnologias: HTML5 e CSS3 ]
 * [Loja Super Hero](https://rodrusantu-dev.github.io/LojaSuperHero/) - Site Loja de Bonecos. [ Tecnologias: HTML5 e CSS3 ]
 * [Encriptador de Conversas](https://rodrusantu-dev.github.io/Encriptador/) - Aplicação em JS - Criptografa conversas [ Tecnologias: HTML5 + CSS3 + JavaScript ]
+* [Brasileiro Senhas](https://rodrusantu-dev.github.io/BrasileiroSenhas/) - Aplicação em JS - Gerador de Senhas [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 * [Abajur em JS](https://rodrusantu-dev.github.io/Farolete-JS/) - Aplicação em JS - Abajur [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 * [TodoList](https://rodrusantu-dev.github.io/Todolist-JS/login.html) - Aplicação em JS - Lista de Tarefas [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 * [Hora do Dia](https://rodrusantu-dev.github.io/HoraDoDia/) - Aplicação em JS - Site estilo Hora do Dia [ Tecnologias: HTML5 + CSS3 + JavaScript ]

@@ -34,7 +34,8 @@ Mencione as ferramentas que você usou para criar seu projeto
 ## Tecnologias em aprendizado:
 
 <div style="display: inline_block" align = "left"><br>
-<img align="center" alt="rodrigomenezes-node" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/node3.svg" />
+<img align="center" alt="rodrigomenezes-reacte" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/node3.svg" />
+<img align="center" alt="rodrigomenezes-node" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/react.png" />
 
 ### Minhas Redes Sociais: </strong>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodrusantu-dev)

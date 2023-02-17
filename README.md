@@ -25,6 +25,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 <img align="center" alt="rodrigomenezes-html5" height="50" width="70" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-html5.svg" />
 <img align="center" alt="rodrigomenezes-css3" height="50" width="80" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-ccs3.svg" />
 <img align="center" alt="rodrigomenezes-javascript" height="55" width="55" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/java3.svg" />
+<img align="center" alt="rodrigomenezes-node" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/react.png" />
 <img align="center" alt="rodrigomenezes-git" height="70" width="80" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-git.svg"/>
 <img align="center" alt="rodrigomenezes-github" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-github.svg" />
 <img align="center" alt="rodrigomenezes-vscode" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-vscode.svg" />
@@ -34,7 +35,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 ## Tecnologias em aprendizado:
 
 <div style="display: inline_block" align = "left"><br>
-<img align="center" alt="rodrigomenezes-node" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/react.png" />
 <img align="center" alt="rodrigomenezes-reacte" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/node3.svg" />
   
 ### Minhas Redes Sociais: </strong>

@@ -30,7 +30,10 @@ Mencione as ferramentas que você usou para criar seu projeto
 <img align="center" alt="rodrigomenezes-git" height="70" width="80" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-git.svg"/>
 <img align="center" alt="rodrigomenezes-github" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-github.svg" />
 <img align="center" alt="rodrigomenezes-vscode" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-vscode.svg" />
-<img align="center" alt="rodrigomenezes-markdown" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-markdown.png" />
+<img align="center" alt="rodrigomenezes-trello" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/trello.png" />
+  <img align="center" alt="rodrigomenezes-markdown" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-markdown.png" />
+  
+  
 
   
   

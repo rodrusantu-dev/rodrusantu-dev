@@ -2,7 +2,7 @@
 
 ## 🧙 Começando
 
-Olá, sou o Rodrigo, e centralizo aqui no meu GitHub todos os meus códigos e projetos no meio da Programação. Sou um profissional em transição de carreira, já trabalho há 12 anos como Gestor Administrativo. Crei um conceito (gosto de chamar assim) o Bizurado DEV que é a minha marca pessoal em todos os meus projetos, que carrega consigo um conceito, e um padrão de trabalho exclusivo. E ai, vamos trabalhar ?
+Olá, sou o Rodrigo, e centralizo aqui no meu GitHub todos os meus códigos e projetos no meio da Programação. Sou um profissional em transição de carreira, já trabalho há 12 anos como Gestor Administrativo. Crei um projeto em forma de site e orientações que é o DEV Mesmo? , que carrega consigo um conceito, e um padrão de trabalho exclusivo. E ai, vamos trabalhar ?
 
 
 ## 🛠️ Projetos já realizados

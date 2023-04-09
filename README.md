@@ -1,4 +1,4 @@
-# Profissional em formação DevFullstack 
+# Profissional em formação DevFullstack (focado em Front)
 
 ## 🧙 Começando
 

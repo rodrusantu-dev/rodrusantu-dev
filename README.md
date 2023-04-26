@@ -26,11 +26,12 @@ Mencione as ferramentas que você usou para criar seu projeto
 <img align="center" alt="rodrigomenezes-javascript" height="55" width="55" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/java3.svg" />
 <img align="center" alt="rodrigomenezes-react" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/react.png" />
 <img align="center" alt="rodrigomenezes-mongo" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/mongodb.png" />
+<img align="center" alt="rodrigomenezes-node" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/node3.svg" />
 <img align="center" alt="rodrigomenezes-git" height="70" width="80" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-git.svg"/>
 <img align="center" alt="rodrigomenezes-github" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-github.svg" />
 <img align="center" alt="rodrigomenezes-vscode" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-vscode.svg" />
 <img align="center" alt="rodrigomenezes-trello" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/trello.png" />
-  <img align="center" alt="rodrigomenezes-markdown" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-markdown.png" />
+<img align="center" alt="rodrigomenezes-markdown" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-markdown.png" />
   
   
 
@@ -38,8 +39,7 @@ Mencione as ferramentas que você usou para criar seu projeto
   
 ## Tecnologias em aprendizado:
 
-<div style="display: inline_block" align = "left"><br>
-<img align="center" alt="rodrigomenezes-node" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/node3.svg" />
+* Teste de Software
   
 ### Minhas Redes Sociais: </strong>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodrusantu-dev)

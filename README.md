@@ -2,7 +2,7 @@
 
 ## 🧙 Começando
 
-Olá, sou o Rodrigo, e centralizo aqui no meu GitHub todos os meus códigos e projetos no meio da Programação. Sou um profissional em transição de carreira, já trabalho há 12 anos como Gestor Comercial, e trago ai na bagagem muita experiência, em gestão de projetos, prazos, e maturidade para asusmir nossos desafios. Amo estudar tudo que faz correlação ao universo da Programação, e trabalhar com isso não é um desafio, é um sonho, um prazer diário.
+Olá, sou o Rodrigo, e centralizo aqui no meu GitHub todos os meus códigos e projetos no meio da Programação. Sou um profissional em transição de carreira, já trabalho há 12 anos como Gestor Comercial, e trago na bagagem muita experiência, em gestão de projetos, prazos, e maturidade para asusmir nossos desafios. Amo estudar tudo que faz correlação ao universo da Programação, e trabalhar com isso não é um desafio, é um sonho, um prazer diário.
 
 ## 🛠️ Projetos já realizados
 

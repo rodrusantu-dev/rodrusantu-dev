@@ -49,7 +49,9 @@ Mencione as ferramentas que você usou para criar seu projeto
   
 ### Minhas Redes Sociais: </strong>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodrusantu-dev)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/rodrigomenezesprogramador/](https://www.linkedin.com/in/rsmenezes/))
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rsmenezes/)
+
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rodrusantu)
 
 

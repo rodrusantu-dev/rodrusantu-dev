@@ -2,7 +2,7 @@
 
 ## 🧙 Começando
 
-Olá, meu nome é Rodrigo e sou um profissional em transição de carreira que está em busca de novos desafios na área de programação. Com mais de 12 anos de experiência como Gestor Comercial, trago na bagagem habilidades como gestão de projetos, prazos e maturidade para assumir novos desafios.
+Olá, meu nome é Rodrigo e sou um profissional **em transição de carreira** que está em busca de novos desafios na área de programação. Com mais de 12 anos de experiência como Gestor Comercial, trago na bagagem habilidades como gestão de projetos, prazos e maturidade para assumir novos desafios.
 
 Sempre fui apaixonado por tecnologia e amo estudar tudo que está relacionado ao universo da programação. Para mim, trabalhar com programação não é um desafio, é um sonho, um prazer diário.
 
@@ -44,14 +44,13 @@ Se você está em busca de um profissional comprometido, dinâmico e apaixonado 
 <img align="center" alt="rodrigomenezes-markdown" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-markdown.png" />
   
   
-
-  
-  
 ## Tecnologias em aprendizado:
 
 * Teste de Software
+* React Native
+* PostegreSQL
   
-### Minhas Redes Sociais: </strong>
+## Minhas Redes Sociais: </strong>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodrusantu-dev)
 
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rsmenezes/)

@@ -14,6 +14,7 @@ Se você está em busca de um profissional comprometido, dinâmico e apaixonado 
 
 Mencione as ferramentas que você usou para criar seu projeto
 
+* [Vertical Elevadores - Qualidade de Software](https://rodrusantu-dev.github.io/VerticalElevadores/) - Site sobre o tema. [ Tecnologias: HTML5, CSS3, Javascript, QA ]
 * [DEV Mesmo? - Transição de Carreira](https://rodrusantu-dev.github.io/DevMesmo/) - Site sobre o tema. [ Tecnologias: HTML5 e CSS3 ]
 * [Lanchonete Aromas](https://rodrusantu-dev.github.io/LanchoneteAromas/) - Site de uma lanchonete. [ Tecnologias: HTML5 e CSS3 ]
 * [Loja Super Hero](https://rodrusantu-dev.github.io/LojaSuperHero/) - Site Loja de Bonecos. [ Tecnologias: HTML5 e CSS3 ]

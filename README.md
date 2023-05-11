@@ -10,9 +10,8 @@ Aqui no meu GitHub, centralizo todos os meus códigos e projetos desenvolvidos c
 
 Se você está em busca de um profissional comprometido, dinâmico e apaixonado por tecnologia, não hesite em entrar em contato comigo. Vamos construir juntos projetos incríveis.
 
-## 🛠️ Projetos já realizados
-
-Mencione as ferramentas que você usou para criar seu projeto
+## 🚀 Projetos já realizados
+### Mas sempre com aprimoramentos !
 
 * [Vertical Elevadores - Qualidade de Software](https://rodrusantu-dev.github.io/VerticalElevadores/) - Site sobre o tema. [ Tecnologias: HTML5, CSS3, Javascript, QA ]
 * [DEV Mesmo? - Transição de Carreira](https://rodrusantu-dev.github.io/DevMesmo/) - Site sobre o tema. [ Tecnologias: HTML5 e CSS3 ]
@@ -23,6 +22,10 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Abajur em JS](https://rodrusantu-dev.github.io/Farolete-JS/) - Aplicação em JS - Abajur [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 * [TodoList](https://rodrusantu-dev.github.io/Todolist-JS/login.html) - Aplicação em JS - Lista de Tarefas [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 * [Hora do Dia](https://rodrusantu-dev.github.io/HoraDoDia/) - Aplicação em JS - Site estilo Hora do Dia [ Tecnologias: HTML5 + CSS3 + JavaScript ]
+
+## 🛠️ Projetos em desenvolvimento
+
+* [Romano - Tradutor de numeros romanos](https://rodrusantu-dev.github.io/Romanos/) - Aplicação em JS - Site sobre o tema [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 
 
 ## Tecnologias que já trabalho:

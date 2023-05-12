@@ -25,7 +25,8 @@ Se você está em busca de um profissional comprometido, dinâmico e apaixonado 
 
 ## 🛠️ Projetos em desenvolvimento
 
-* [Romano - Tradutor de numeros romanos](https://rodrusantu-dev.github.io/Romanos/) - Aplicação em JS - Site sobre o tema [ Tecnologias: HTML5 + CSS3 + JavaScript ]
+* Romano - Tradutor de numeros romanos - Aplicação para transformar números romanos em decimais.
+* SangueVida - Minisite sem fins lucrativos, de modo a motivar a doação de sangue no Brasil.
 
 
 ## Tecnologias que já trabalho:

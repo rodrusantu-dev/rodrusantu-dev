@@ -32,6 +32,7 @@ Abaixo meus projetos já realizados, que procuro sempre atualizar e manter todos
 <img align="center" alt="rodrigomenezes-css3" height="50" width="80" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-ccs3.svg" />
 <img align="center" alt="rodrigomenezes-javascript" height="55" width="55" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/java3.svg" />
 <img align="center" alt="rodrigomenezes-react" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/react.png" />
+<img align="center" alt="rodrigomenezes-saa" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/56174b391b6b616a26914a287ef31bd872dbab69/Imagens/PerfilGithub/sass.svg" />
 <img align="center" alt="rodrigomenezes-mongo" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/mongodb.png" />
 <img align="center" alt="rodrigomenezes-node" height="60" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/node3.svg" />
 <img align="center" alt="rodrigomenezes-git" height="70" width="80" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-git.svg"/>
@@ -41,6 +42,7 @@ Abaixo meus projetos já realizados, que procuro sempre atualizar e manter todos
 <img align="center" alt="rodrigomenezes-markdown" height="50" width="60" src="https://github.com/rodrusantu-dev/Modelos/blob/main/Imagens/PerfilGithub/img-markdown.png" />
   
   
+
 ## Tecnologias em aprendizado:
 
 * Teste de Software

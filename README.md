@@ -8,6 +8,7 @@ Abaixo meus projetos já realizados, que procuro sempre atualizar e manter todos
 ## 🚀 Projetos já realizados
 ### Mas sempre com aprimoramentos !
 
+* [doa Sangue](https://rodrusantu-dev.github.io/doaSangue/) - Site sobre o tema. [ Tecnologias: HTML5, CSS3, Javascript e Sass ]
 * [Vertical Elevadores - Qualidade de Software](https://rodrusantu-dev.github.io/VerticalElevadores/) - Site sobre o tema. [ Tecnologias: HTML5, CSS3, Javascript, QA ]
 * [DEV Mesmo? - Transição de Carreira](https://rodrusantu-dev.github.io/DevMesmo/) - Site sobre o tema. [ Tecnologias: HTML5 e CSS3 ]
 * [Lanchonete Aromas](https://rodrusantu-dev.github.io/LanchoneteAromas/) - Site de uma lanchonete. [ Tecnologias: HTML5 e CSS3 ]
@@ -18,12 +19,6 @@ Abaixo meus projetos já realizados, que procuro sempre atualizar e manter todos
 * [Abajur em JS](https://rodrusantu-dev.github.io/Farolete-JS/) - Aplicação em JS - Abajur [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 * [TodoList](https://rodrusantu-dev.github.io/Todolist-JS/login.html) - Aplicação em JS - Lista de Tarefas [ Tecnologias: HTML5 + CSS3 + JavaScript ]
 * [Hora do Dia](https://rodrusantu-dev.github.io/HoraDoDia/) - Aplicação em JS - Site estilo Hora do Dia [ Tecnologias: HTML5 + CSS3 + JavaScript ]
-
-## 🛠️ Projetos em desenvolvimento
-
-* Romano - Tradutor de numeros romanos - Aplicação para transformar números romanos em decimais.
-* SangueVida - Minisite sem fins lucrativos, de modo a motivar a doação de sangue no Brasil.
-
 
 ## Tecnologias que já trabalho:
 
